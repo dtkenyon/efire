@@ -1,5 +1,5 @@
 \#!/bin/bash/
-#Initialize the GPIOs used by the EFIRE Driver.
+#Initialize the GPIOs used by the EFIRE Driver
 echo "Initalizing EFIRE/MIROC2 Driver Software"
 echo "Initalizing GPIO Pins"
 pushd /sys/class/gpio > /dev/null
